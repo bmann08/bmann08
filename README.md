@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Dev, VR, & Zombies
 - 🌱 I’m currently learning Photoshop, HTML, CSS, Javascript, 3D Max, &  Maya.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... brymann1@uat.edu
 
 <!---
 bmann08/bmann08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
